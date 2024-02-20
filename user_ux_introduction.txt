@@ -1,0 +1,53 @@
+Experiência do Usuário:
+	Introdução à experiência do usuário:
+		Ponto de visão de quem está utilizando determinada aplicação.
+		
+		Ferramentas de IA;
+		Personas;
+		Pesquisas Qualitativas e Quantitativas;
+		Teste de calor;
+		Etnografia;
+		UX para computação;
+		Negócios digitais;
+		Teste de Desejabilidade;
+		Teste de conceito;
+		Desing participativo;
+		Perfil do usuário;
+		Design de serviço;
+		Jornadas de Experiência;
+		Redação para UX;
+		
+		Objetivos do negócio: 
+			Lucro;
+			Capital;
+			Troca de favores;
+		
+		Identificar necessidades dos usuários;
+		Modelar personas;
+		
+		
+		DESIGN THINKINKG:
+			Metodologia Munari:
+				Definir o problema;
+				Definir tipo de solução provisória;
+				Divisão do problema;
+				Coletar dados;
+				Análise de dados;
+				Pesquisa sobre materiais e tecnologias;
+				Experimentação;
+				Construção de modelos;
+				Validação de modelos;
+				Desenho construtivo (antigo);
+				
+			O termo design thinking se popularizou no mundo corporativo se tomava o pensamento
+			do designer em oposição ao modo de conduzir projetos da adm científica;
+			
+			Processos:
+				Investigação -> Briefing;
+				Divergência -> Cria hipóteses;
+				Convergência -> Fazer escolhas;
+				Implantação -> Execução do projeto;
+				
+				
+				
+				
